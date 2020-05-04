@@ -1,4 +1,4 @@
-# Data Mining: Stand-Up Comdey Dataset 
+# Data Mining, NLP, LSTM: Stand-Up Comdey Dataset 
 #### Scraped from Scraps From The Loft (https://scrapsfromtheloft.com/tag/stand-up-transcripts/)
 This python script crawls the Scraps From The Loft web archive for a directory of links and other data
           relating to transcripts from a large number of comedians' stand-up performances. Collected links are then iterated through to
