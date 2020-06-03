@@ -14,7 +14,7 @@
 5) Predict IMDb rating: Use the LDA vector along with a handmade binary target feature `rating_type` (1 for above average and 0 for below average IMDb rating) to train an ensemble classifier in `predict_rating.ipynb`.
 
 
-### The dataset that results from running `get_transcripts` then `cleaning` contains the following columns: 
+### The dataset that results from running `get_transcripts,ipynb` then `cleaning,ipynb` contains the following columns: 
           [title, 
           tags, 
           date_posted, 
