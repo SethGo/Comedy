@@ -1,4 +1,4 @@
-# Data Mining, LSTM Text Generation, LDA Topic Modeling, Classification, Clustering: NLP with Stand-Up Comdey Dataset 
+# NLP with Stand-Up Comdey Dataset: Data Mining, LSTM Text Generation, LDA Topic Modeling, Classification, Clustering 
 #### Scraped from Scraps From The Loft (https://scrapsfromtheloft.com/tag/stand-up-transcripts/)
 
 1) Gather data: The notbook `get_transcripts.ipynb` crawls the Scraps From The Loft web archive for a directory of links and other data
