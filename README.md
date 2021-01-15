@@ -1,6 +1,6 @@
 # NLP with Stand-Up Comdey Dataset: Data Mining, LSTM Text Generation, LDA Topic Modeling, Classification, Clustering 
 #### Scraped from Scraps From The Loft (https://scrapsfromtheloft.com/tag/stand-up-transcripts/)
-
+Read the paper: https://sethgory.com/img/Clustering-For-Classification-Using-KMeans.pdf
 1) Gather data: The notbook `get_transcripts.ipynb` crawls the Scraps From The Loft web archive for a directory of links and other data
           relating to transcripts from 330+ comedians' stand-up performances. Collected links are then iterated through to
           scrape sub-pages which contain the actual transcripts. Some cleaning and tagging is done using Regex and an IMDb api. 
